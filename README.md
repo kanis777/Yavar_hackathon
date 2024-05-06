@@ -30,7 +30,10 @@ Offline video files in mp4 format containing scenes where fall detection needs t
  <img src="https://github.com/kanis777/Yavar_hackathon/blob/main/output/fall.png" alt="Fall detected" width="400">
 
 ## USER INTERFACE 
-[Link to Video](https://github.com/kanis777/Yavar_hackathon/blob/main/interface/streamlit.webm)
+<video width="320" height="240" controls>
+  <source src="https://github.com/kanis777/Yavar_hackathon/blob/main/interface/streamlit.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 ## Evaluation Criteria
 

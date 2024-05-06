@@ -1,7 +1,7 @@
 # Yavar_hackathon
 
 # Yavar Internship Selection Assignment
-# token = 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 for hugging face OWL-ViT
+### token = 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 for hugging face OWL-ViT
 ## Problem Statement
 
 People's fall detection is a critical concern due to its potentially life-threatening consequences, especially in environments such as staircases, escalators, and steps. The assignment requires implementing a solution for fall detection in videos, with specific emphasis on detecting falls accurately and minimizing false positives.

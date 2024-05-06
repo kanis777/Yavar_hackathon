@@ -29,6 +29,9 @@ Offline video files in mp4 format containing scenes where fall detection needs t
 # token = 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 for hugging face 
  <img src="https://github.com/kanis777/Yavar_hackathon/blob/main/output/fall.png" alt="Fall detected" width="400">
 
+## USER INTERFACE 
+[Link to Video](https://github.com/kanis777/Yavar_hackathon/blob/main/interface/streamlit.webm)
+
 ## Evaluation Criteria
 
 - **High Accuracy:** The model should accurately detect falls in the video sequences.

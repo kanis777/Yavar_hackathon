@@ -31,7 +31,7 @@ Offline video files in mp4 format containing scenes where fall detection needs t
 
 ## USER INTERFACE 
 <video width="320" height="240" controls>
-  <source src="https://github.com/kanis777/Yavar_hackathon/blob/main/interface/streamlit.webm" type="video/webm">
+  <source src="https://github.com/kanis777/Yavar_hackathon/blob/main/interface/streamlit.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

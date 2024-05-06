@@ -8,10 +8,12 @@ People's fall detection is a critical concern due to its potentially life-threat
 
 ### Libraries/Algorithms Used
 
-- YOLO (You Only Look Once) Computer Vision Library for object detection
-- Mediapipe Pose Estimation algorithm for detecting human poses
-- OWL-ViT (Open-Vocabulary Vision Transformer) for object detection and recognition
-- Scikit-learn for evaluating the model's performance metrics
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)](https://www.streamlit.io/)
+[![YOLO](https://img.shields.io/badge/YOLO-FFA500?style=for-the-badge&logo=yolo&logoColor=white)](https://pjreddie.com/darknet/yolo/)
+[![Mediapipe](https://img.shields.io/badge/Mediapipe-5E5E5E?style=for-the-badge&logo=mediapipe&logoColor=white)](https://google.github.io/mediapipe/)
+[![OWL-ViT](https://img.shields.io/badge/OWL--ViT-FF8800?style=for-the-badge&logo=vimeo&logoColor=white)](https://github.com/google-research/vision_transformer)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 
 ## Input
 

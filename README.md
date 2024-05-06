@@ -26,6 +26,7 @@ Offline video files in mp4 format containing scenes where fall detection needs t
  <img src="https://github.com/kanis777/Yavar_hackathon/blob/main/output/pose.png" alt="Pose detected" width="400">
 
 ## fall detection with OWL-ViT
+# token = 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 for hugging face 
  <img src="https://github.com/kanis777/Yavar_hackathon/blob/main/output/fall.png" alt="Fall detected" width="400">
 
 ## Evaluation Criteria

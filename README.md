@@ -38,6 +38,7 @@ Offline video files in mp4 format containing scenes where fall detection needs t
 - **High Accuracy:** The model should accurately detect falls in the video sequences.
 - **Minimal False Positives:** The solution should minimize false positive detections to avoid unnecessary alarms.
 <img src="https://github.com/kanis777/Yavar_hackathon/blob/main/output/metrics.png" alt="Metrics" width="400">
+
 ## Usage
   
 1. Clone the repository to your local machine:
